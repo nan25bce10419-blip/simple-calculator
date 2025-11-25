@@ -37,5 +37,9 @@ The program is menu-driven and takes input from the user in an interactive way.
 - Try entering wrong inputs to verify error handling.  
 - Test division by zero to see if the program shows a warning.
 
+7. Screenshots
+   <img width="625" height="454" alt="Screenshot 2025-11-23 233431" src="https://github.com/user-attachments/assets/6b3a2020-f760-48f8-b614-fb553d271a42" />
+<img width="629" height="690" alt="Screenshot 2025-11-23 233341" src="https://github.com/user-attachments/assets/113b7b20-a053-47b4-8069-c86acf882d15" />
+<img width="756" height="925" alt="Screenshot 2025-11-23 233325" src="https://github.com/user-attachments/assets/8d6e43e1-c4be-4376-b4f6-2454c8998ac7" />
 
    
